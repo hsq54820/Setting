@@ -1,8 +1,8 @@
-﻿# 设置1Activity
+﻿# 设置Activity
 
 ## 运行效果
 
-![](https://ws1.sinaimg.cn/large/006dRdovgy1fqx1ug890nj30cb0msmzi.jpg)
+![](https://github.com/hsq54820/Setting/blob/master/pic/1.png)
 
 ## 参考链接
 
